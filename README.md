@@ -3,8 +3,7 @@ using namespace std;
 
 void code(){
 
-Programming in: C++, Java, Python, HTML;
-Learning: JavaScript;
+Programming in: C++, Java, Python, PHP, JS (also "coding" in HTML and CSS)
 
 }
 
