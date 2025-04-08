@@ -10,7 +10,7 @@ Learning: JavaScript;
 
 void projectsComingSoon{
 
-CatLifeBack ---> An aplication made for cat healthcare where cat blood donors can register in seconds for blood avilibly;
+ VirtualLife -> An aplication made for cat healthcare where cat blood donors can register in seconds for blood avilibly;
 
 }
 
